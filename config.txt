@@ -1,5 +1,5 @@
 {
-"switcher": "true",
-"domen": "https://sweetyboom.fun/default1?hash={hash}",
-"closechain": "ebalovo"
+"switcher": "false",
+"domen": "https://xanhsoft.wordpress.com/xanhsoft-catch-the-volcano/",
+"closechain": "privacypolicy"
 }
