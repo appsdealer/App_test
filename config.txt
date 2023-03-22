@@ -1,5 +1,5 @@
 {
-"switcher": "false",
-"domen": "https://xanhsoft.wordpress.com/xanhsoft-catch-the-volcano/",
+"switcher": "true",
+"domen": "https://vulkancatch.com/privacy?hash={hash}",
 "closechain": "privacypolicy"
 }
